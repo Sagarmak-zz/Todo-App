@@ -1,5 +1,5 @@
 {
-    "name": "todo-app",
+    "name": "blog",
     "version": "1.0.0",
     "description": "personalblog",
     "author": "Awesome Author",
@@ -8,6 +8,6 @@
         "postinstall": "npm install express",
         "dev": "node build/dev-server.js",
         "build": "node build/build.js",
-        "start": "node server.js",
+        "start": "node server.js"
     }
 }
